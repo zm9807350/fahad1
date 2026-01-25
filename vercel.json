@@ -6,8 +6,8 @@
   "routes": [
     { "src": "/waqar", "dest": "/waqar.js" },
     { "src": "/kashif", "dest": "/kashif.js" },
-    { "src": "/maaz", "dest": "/maaz.js" },
-    { "src": "/qaisar", "dest": "/qaisar.js" },
+    { "src": "/Ramzan", "dest": "/Ramzan.js" },
+    { "src": "/Tarif", "dest": "/Tarif.js" },
     { "src": "/Hamid", "dest": "/Hamid.js" },
     { "src": "/Rafique", "dest": "/Rafique.js" },
     { "src": "/Sanaulah", "dest": "/Sanaulah.js" },
