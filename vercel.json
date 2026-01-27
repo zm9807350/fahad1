@@ -8,7 +8,7 @@
     { "src": "/kashif", "dest": "/kashif.js" },
     { "src": "/Ramzan", "dest": "/Ramzan.js" },
     { "src": "/Tarif", "dest": "/Tarif.js" },
-    { "src": "/Hamid", "dest": "/Hamid.js" },
+    { "src": "/maqsood", "dest": "/maqsood.js" },
     { "src": "/Rafique", "dest": "/Rafique.js" },
     { "src": "/Sanaulah", "dest": "/Sanaulah.js" },
     { "src": "/asif", "dest": "/asif.js" }
